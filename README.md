@@ -16,7 +16,8 @@ Users can find any podcast available on the iTunes store using the search functi
 ![podcast-search](gifs/podcast-search.gif)
 
 Once a user finds a podcast they're interested in, they can subscribe to it to keep track of their favorite podcasts and make sure they get the latest episodes.
-![podcast-subscribe](gifs/podcast-subscribe.png)
+
+![podcast-subscribe](gifs/podcast-subscribe.gif)
 
 
 ### Find Episodes
